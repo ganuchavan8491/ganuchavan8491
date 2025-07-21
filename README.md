@@ -5,11 +5,11 @@
 
 ### 🧑‍💻 About Me
 
-🔭 I’m currently building full-stack web solutions that solve real-world problems  
-🌱 I’m currently learning everything 🤣  
-👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions  
-⚡ Fun fact: I love to learn new things!  
-📫 Reach me at **ganeshchavan688002@gmail.com**
+- 🔭 I’m currently building full-stack web solutions that solve real-world problems  
+- 🌱 I’m currently learning everything 🤣  
+- 👨‍💻 I work with **WordPress** and **Shopify** to deliver custom, scalable websites and e-commerce solutions  
+- ⚡ Fun fact: I love to learn new things!  
+- 📫 Reach me at **ganeshchavan688002@gmail.com**
 
 ---
 
@@ -30,11 +30,15 @@
   <a href="mailto:ganeshchavan688002@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="mailto:ganeshchavan688002@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Email" />
+  <a href="https://www.instagram.com/ganeshchavan_gc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  <a href="https://x.com/ganeshchavan_gc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+</p>
 
-  ---
+---
 
 ### 💡 Notable Projects
 
