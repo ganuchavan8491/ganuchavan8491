@@ -30,6 +30,9 @@
   <a href="mailto:ganeshchavan688002@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+  <a href="mailto:ganeshchavan688002@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Email" />
+  </a>
 
   ---
 
