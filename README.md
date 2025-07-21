@@ -13,6 +13,20 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganuchavan8491&show_icons=true&theme=tokyonight" alt="Ganesh's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganuchavan8491&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganuchavan8491&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 🛠️ Languages & Tools
 
 <p align="left">
