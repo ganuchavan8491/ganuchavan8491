@@ -27,10 +27,12 @@
   <a href="https://linkedin.com/in/ganeshchavan8491/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:ganeshchavan688002@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
----
+
+  ---
 
 ### 💡 Notable Projects
 
