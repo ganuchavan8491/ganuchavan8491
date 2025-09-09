@@ -21,7 +21,55 @@
 
 ---
 
-## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,wordpress,vscode,git,github,figma,linux" />
+</p>
+
+---
+
+## 🛠️ Languages & Tools 
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
+![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)  
+
+**Backend & APIs**  
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white) 
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) 
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+**Databases**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+**Data Science Tools**  
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+
+**Environments & Deployment**  
+![Venv](https://img.shields.io/badge/Venv-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![UV](https://img.shields.io/badge/UV-FF6F00?style=for-the-badge&logo=python&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+
+**Other Tools & Platforms**  
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
+
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,wordpress,vscode,git,github,figma,linux" />
