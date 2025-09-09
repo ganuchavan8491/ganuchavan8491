@@ -21,6 +21,12 @@
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/snake.svg" alt="Snake animation" />
+
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,wordpress,vscode,git,github,figma,linux" />
 </p>
