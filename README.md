@@ -21,14 +21,6 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,wordpress,vscode,git,github,figma,linux" />
 </p>
@@ -91,6 +83,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ganuchavan8491&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganuchavan8491&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ganuchavan8491/ganuchavan8491/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
