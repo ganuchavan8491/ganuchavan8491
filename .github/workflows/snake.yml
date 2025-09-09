@@ -1,11 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # har 12 ghante me chalega
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch: # manually run karne ke liye
-
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -26,7 +24,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=green&speed=0.3
+            dist/snake.svg?palette=github-dark&color_snake=#00FF00&color_dots=#9be9a8,#40c463,#30a14e,#216e39,#ebedf0&speed=0.6&grid_size=20&show_months=true&show_days=true
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
