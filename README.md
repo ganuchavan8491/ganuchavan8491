@@ -1,9 +1,5 @@
-<h1 align="center">Hey 👋, I'm <span style="color:#00FFB2;">Ganesh Chavan</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | WordPress & Shopify Expert | Python Enthusiast 🐍</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=750&lines=Crafting+Beautiful+Web+Experiences+%F0%9F%92%BB;WordPress+%7C+Shopify+%7C+React+%7C+Django;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%94%A5" />
-</p>
+<h1 align="center">Hi 👋, I'm Ganesh Chavan</h1>
+<h3 align="center">🚀 Full-Stack Developer | WordPress & Shopify Expert | Python Enthusiast</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="450"/>
