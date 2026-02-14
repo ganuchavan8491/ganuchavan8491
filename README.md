@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ganesh Chavan</h1>
-<h3 align="center">🚀 Full-Stack Developer | WordPress & Shopify Expert | Python Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm <span style="color:#00FFB2;">Ganesh Chavan</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | WordPress & Shopify Expert | Python Enthusiast 🐍</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFB2&center=true&vCenter=true&width=750&lines=Crafting+Beautiful+Web+Experiences+%F0%9F%92%BB;WordPress+%7C+Shopify+%7C+React+%7C+Django;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&lines=Crafting+Beautiful+Web+Experiences;WordPress+%7C+Shopify+%7C+Python;Always+learning+%F0%9F%92%AB" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganuchavan8491&label=Profile%20Views&color=00FFB2&style=for-the-badge" />
 </p>
 
 ---
@@ -19,13 +23,11 @@
 - ⚡ Fun fact: I enjoy learning something new every single day  
 - 📫 Reach me at: **ganeshchavan688002@gmail.com**
 
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,wordpress,vscode,git,github,figma,linux" />
 </p>
 
----
 
 ## 🛠️ Languages & Tools 
 
@@ -69,19 +71,9 @@
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
 
----
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,wordpress,vscode,git,github,figma,linux" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganuchavan8491&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganuchavan8491&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -94,24 +86,25 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganuchavan8491&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:ganeshchavan688002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ganeshchavan8491/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/ganeshchavan_gc/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://x.com/ganeshchavan_gc/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="mailto:ganeshchavan688002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ganeshchavan8491/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ganeshchavan_gc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/ganeshchavan_gc/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
 ---
+
 
 ## 💡 Notable Projects
 
@@ -123,7 +116,7 @@
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - Master **Python Web Development (Flask/Django)**  
 - Build a **Shopify App**  
